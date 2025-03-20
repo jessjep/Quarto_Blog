@@ -1,0 +1,12 @@
+---
+title: "Tidy Tuesday: Palm Trees"
+image: "palms.png"
+---
+
+Week 11 of Tidy Tuesday used data from the {palmtrees} package. Such an interesting dataset with so many options to explore.
+
+I find dendrograms confusing, so I followed this helpful post to help me create it: https://paulapivat.com/technical_notes/example_tech/data_viz_tip1/.
+
+![](palms.png){style="margin:auto;"}
+
+Code: <https://github.com/jessjep/tidytuesday/blob/main/2025/18-03-25/palms.R>
